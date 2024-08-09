@@ -1,3 +1,5 @@
+![logo](https://github.com/Rakesh-Galii/Rakesh-Galii/blob/main/Untitled%20design.png)
+
 <h1 align="center">Hi 👋, I'm Rakesh Gali</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
