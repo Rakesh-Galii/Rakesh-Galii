@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-galii&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-galii" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, Courses etc**
+- 🌱 I’m currently working in IBM as Analyst ****
 
 - 📫 How to reach me **rakeshgalit99@gmail.com**
 
