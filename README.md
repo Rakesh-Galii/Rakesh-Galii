@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-galii&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-galii" /> </p>
 
-- 🌱 📊 Data Analyst & Problem Solver
+- 📊 Data Analyst & Problem Solver
 I transform complex data into actionable insights using Python, SQL, and Tableau.
 
 - 🔭 I’m currently working on: Data Cleaning and Visualization projects.
